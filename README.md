@@ -15,4 +15,4 @@ My other Github accounts:
 
 ### Commit Stats
 
-![](https://github-readme-stats.vercel.app/api?username=raiden00pl&count_private=true&show_icons=true&theme=dark&show_owner=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=raiden00pl&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=raiden00pl&include_all_commits=true&theme=vue-dark)
